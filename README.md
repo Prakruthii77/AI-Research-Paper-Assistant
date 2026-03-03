@@ -1,5 +1,14 @@
 # AI Research Paper Assistant
 
+## AI Research Paper Assistant - Demo
+
+![Demo 1](assets/app_demo.png)
+![Demo 2](assets/app_demo1.png)
+![Demo 3](assets/app_demo2.png)
+![Demo 4](assets/app_demo3.png)
+![Demo 5](assets/app_demo4.png)
+![Demo 6](assets/app_demo5.png)
+
 ## Overview
 
 AI Research Paper Assistant is an AI-powered web application built using Python and Streamlit to help researchers and students analyze academic papers efficiently.
@@ -103,3 +112,4 @@ streamlit run app/streamlit_app.py
 
 Prakruthii Gowda  
 Data Science Student | AI & NLP Enthusiast
+
