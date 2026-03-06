@@ -2,14 +2,12 @@
 
 ## AI Research Paper Assistant - Demo
 
-<p align="center">
-  <img src="assets/app_demo.png" width="700"/>
-  <img src="assets/app_demo1.png" width="700"/>
-  <img src="assets/app_demo2.png" width="700"/>
-  <img src="assets/app_demo3.png" width="700"/>
-  <img src="assets/app_demo4.png" width="700"/>
-  <img src="assets/app_demo5.png" width="700"/>
-</p>
+![Demo 1](assets/app_demo.png)
+![Demo 2](assets/app_demo1.png)
+![Demo 3](assets/app_demo2.png)
+![Demo 4](assets/app_demo3.png)
+![Demo 5](assets/app_demo4.png)
+![Demo 6](assets/app_demo5.png)
 
 ## Overview
 
@@ -114,5 +112,6 @@ streamlit run app/streamlit_app.py
 
 Prakruthii Gowda  
 Data Science Student | AI & NLP Enthusiast
+
 
 
